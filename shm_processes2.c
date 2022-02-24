@@ -6,6 +6,7 @@
 #include <unistd.h>
 #include <sys/wait.h>
 
+// Collaboration with David Daniels
 
 int randomNum(int range);
 void  PoorStudentProcess(int []);
