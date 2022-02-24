@@ -6,6 +6,8 @@
 #include <unistd.h>
 #include <sys/wait.h>
 
+//Collaboration with David Daniels
+
 void  ClientProcess(int []);
 
 int  main(int  argc, char *argv[])
